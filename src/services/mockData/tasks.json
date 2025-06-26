@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "title": "Review quarterly financial reports",
+    "completed": false,
+    "priority": "high",
+    "category": "Work",
+    "dueDate": "2024-01-15",
+    "createdAt": "2024-01-10T09:00:00Z",
+    "completedAt": null,
+    "notes": "Focus on revenue trends and expense optimization opportunities"
+  },
+  {
+    "id": "2",
+    "title": "Plan weekend camping trip",
+    "completed": false,
+    "priority": "medium",
+    "category": "Personal",
+    "dueDate": "2024-01-18",
+    "createdAt": "2024-01-11T14:30:00Z",
+    "completedAt": null,
+    "notes": "Book campsite, check weather, prepare gear list"
+  },
+  {
+    "id": "3",
+    "title": "Call dentist for checkup appointment",
+    "completed": true,
+    "priority": "low",
+    "category": "Health",
+    "dueDate": "2024-01-12",
+    "createdAt": "2024-01-08T11:15:00Z",
+    "completedAt": "2024-01-12T16:45:00Z",
+    "notes": "Regular 6-month cleaning and exam"
+  },
+  {
+    "id": "4",
+    "title": "Prepare presentation for client meeting",
+    "completed": false,
+    "priority": "high",
+    "category": "Work",
+    "dueDate": "2024-01-16",
+    "createdAt": "2024-01-12T08:20:00Z",
+    "completedAt": null,
+    "notes": "Include market analysis and competitive positioning"
+  },
+  {
+    "id": "5",
+    "title": "Buy groceries for the week",
+    "completed": false,
+    "priority": "medium",
+    "category": "Personal",
+    "dueDate": null,
+    "createdAt": "2024-01-13T19:30:00Z",
+    "completedAt": null,
+    "notes": "Milk, bread, eggs, vegetables, protein for meal prep"
+  },
+  {
+    "id": "6",
+    "title": "Complete online course module",
+    "completed": false,
+    "priority": "low",
+    "category": "Learning",
+    "dueDate": "2024-01-20",
+    "createdAt": "2024-01-10T20:00:00Z",
+    "completedAt": null,
+    "notes": "Chapter 5: Advanced React patterns and best practices"
+  },
+  {
+    "id": "7",
+    "title": "Schedule annual home maintenance",
+    "completed": true,
+    "priority": "medium",
+    "category": "Home",
+    "dueDate": "2024-01-10",
+    "createdAt": "2024-01-05T13:45:00Z",
+    "completedAt": "2024-01-10T10:30:00Z",
+    "notes": "HVAC service, gutter cleaning, roof inspection"
+  },
+  {
+    "id": "8",
+    "title": "Research vacation destinations",
+    "completed": false,
+    "priority": "low",
+    "category": "Personal",
+    "dueDate": null,
+    "createdAt": "2024-01-14T15:20:00Z",
+    "completedAt": null,
+    "notes": "Consider budget, activities, weather, and travel restrictions"
+  }
+]
