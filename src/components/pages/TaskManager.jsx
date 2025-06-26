@@ -38,10 +38,10 @@ const TaskManager = () => {
     search: searchQuery
   };
 
-  const handleCreateTask = async (taskData) => {
+const handleCreateTask = async (taskData) => {
     try {
       await createTask(taskData);
-      setShowAddForm(false);
+      // Keep form open for continuous task creation
     } catch (error) {
       console.error('Failed to create task:', error);
     }
